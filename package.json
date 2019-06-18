@@ -1,0 +1,14 @@
+{
+  "name": "sails-vue-template",
+  "version": "0.1.0",
+  "description": "Sails and Vue basic template",
+  "homepage": "https://github.com/estreiten/sails-vue-template#readme",
+  "main": "server/app.js",
+  "author": "Ezequiel Streitenberger <streitenberger.ezequiel@gmail.com>",
+  "bugs": "https://github.com/estreiten/sails-vue-template/issues",
+  "license" : "see license in LICENSE file located at the root",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/estreiten/sails-vue-template.git"
+  }
+}
