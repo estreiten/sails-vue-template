@@ -7,7 +7,6 @@
 
 module.exports = {
   dummy: (req, res) => {
-    return res.send('Hello man!');
+    return res.ok('Hello man!');
   }
 };
-
