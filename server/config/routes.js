@@ -21,6 +21,6 @@ module.exports.routes = {
   * not match any of those, it is matched against static assets.             *
   *                                                                          *
   ***************************************************************************/
- 'GET /api/test': 'TestController.dummy'
+  'GET /api/test': 'TestController.dummy'
 
 };
