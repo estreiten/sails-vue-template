@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5d0c30c00813d64100e7c083"},"name":"Pete","price":"12.5","createdAt":{"$numberLong":"1561080053409"},"updatedAt":{"$numberLong":"1561080053409"}}
